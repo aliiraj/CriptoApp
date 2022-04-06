@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CriptoApp</string>
+    <string name="server_error">an error occurred</string>
+    <string name="check_connection">please check your connection</string>
+    <string name="try_again">try again</string>
+    <string name="team_members">Team members</string>
+    <string name="tags">Tags</string>
+    <string name="active">active</string>
+    <string name="inactive">inactive</string>
+    <string name="loading">Loading</string>
+    <string name="no_coins_found">No coins found</string>
+    <string name="coin_details">Coin Details</string>
+    <string name="lazy_column_tag">lazyColumnTag</string>
+    <string name="back_tag">backTag</string>
+</resources>
